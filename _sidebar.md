@@ -1,4 +1,4 @@
+- [Home](/)
 - Examples
-
-  - [Keycloak with Posgres](Examples/Keycloak_with_Postgres.md)
+  - [Keycloak with Posgres](examples/keycloak-with-postgres.md)
 
