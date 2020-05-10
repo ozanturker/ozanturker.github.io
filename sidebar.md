@@ -1,2 +1,5 @@
+- [Watching List](watchings/watching-list)
+- [Reading List](readings/reading-list)
 - Examples
   - [Keycloak with Posgres](examples/keycloak-with-postgres.md)
+  - [Maven Local Jar](examples/add-local-jar-tomaven.md)
